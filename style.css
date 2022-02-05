@@ -1,0 +1,68 @@
+.navbar{
+    background-color: whitesmoke;
+}
+
+.nav-item{
+    padding-left: 5%;
+    position: relative;
+    margin-left: 20%;;
+}
+
+
+@media(max-width:480px){
+    .nav-item{
+        position:static;
+    }
+}
+.hello{
+    background-color: aqua;
+    color:rgba(0,0,0,.9);
+    padding-bottom: 5%;
+}
+.ok{
+    position:absolute;
+    margin-top: 130px;
+    margin-left:120px;
+    height: 150px;
+    width:150px;
+    border-radius: 50%;
+}
+.navbar-brand{
+    padding-left: 4%;
+    font-family: 'Quintessential',serif;
+}
+h1{
+    font-family: 'Quintessential', cursive;
+    padding-bottom: 2%;
+}
+p{
+    font-family: cursive;
+    
+}
+#skills{
+    padding-top: 2%;
+    background-color: whitesmoke;
+  
+}
+h2{
+    font-family: cursive;
+    padding-bottom: 3%;
+    padding-top: 6%;
+}
+.js{
+    height: 300px;
+    width:300px;
+    padding-left: 9%;
+}
+.css{
+    height:300px;
+    width:300px;
+}
+.html{
+    padding-left: 5%;
+}
+#contact{
+    background-color: aqua;
+    color: black;
+
+}
